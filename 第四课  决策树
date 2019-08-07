@@ -1,3 +1,4 @@
+```python
 # 决策树
 import argparse
 import collections
@@ -188,3 +189,4 @@ if __name__ == '__main__':
   except KeyError as ke:
     print (ke)
     parser.print_help()
+```
