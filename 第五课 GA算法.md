@@ -1,3 +1,4 @@
+```python
 import math
 import matplotlib
 import matplotlib.pyplot as plt
@@ -146,3 +147,4 @@ def single_shot():
 if __name__ == "__main__":
   #single_shot()
   fire()
+```
