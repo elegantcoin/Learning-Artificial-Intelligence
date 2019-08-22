@@ -25,6 +25,7 @@ follwing the book 《Python: Advanced Guide to Artificial Intelligence》to lear
 ④|李宏毅，国立台湾大学，Hung-yi Lee，语音处理和机器学习实验室 。 |http://speech.ee.ntu.edu.tw/~tlkagk/  http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html
 ⑤|Google AI出版中心， https://ai.google/research/pubs/|
 
+
               
 序号| 参考书籍 | 链接
 ------|------|------
@@ -36,5 +37,9 @@ follwing the book 《Python: Advanced Guide to Artificial Intelligence》to lear
 ⑥|深度学习_Learning Deep Architectures for AI_Yoshua Bengio(中文完美版)  |exacity（https://github.com/exacity/deeplearningbook-chinese）
 ⑦|深度学习与计算机视觉算法原理框架应用与代码实现 （叶韵　编著 机械工业出版社）|
 ⑧|通过实例深入学习 Deep Learning By Example  （Ahmed Menshawy 2018 Packt Publishing）|
-⑨|……|
-| |
+⑨|算法手册、Linux、Python|https://goalkicker.com/AlgorithmsBook/
+⑩|Practical Python and OpenCV |https://www.pyimagesearch.com/practical-python-opencv
+⑾|……|
+⑿|……|
+⒀|……|
+⒁|……|
