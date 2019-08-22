@@ -11,7 +11,12 @@
 <br />
 follwing the book 《Python: Advanced Guide to Artificial Intelligence》to learn AI hands on
 
-    
+  
+  ![](https://www.pyimagesearch.com/wp-content/uploads/2018/01/keras_api_header.png)
+架构：[Keras](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)+[Redis](https://redis.io/topics/introduction)（内存数据结构存储）+[Flask](https://palletsprojects.com/p/flask/)（Python的微型Web框架）
+
+  
+  
 推荐关注领域： ①华校专，曾任阿里巴巴资深算法工程师、智易科技首席算法研究员，现任腾讯高级研究员，《Python 大战机器学习》的作者 http://www.huaxiaozhuan.com/  
               ②李沐，亚马逊MXNet 娇子（GLUON）团队，师从上海交通大学吕宝粮老师，博⼠毕业后加⼊亚⻢逊云计算部⻔
               ③阮巨城，（Da-Cheng Juan）台湾国立清华大学计算机学士，卡内基梅隆大学博士，现于 Google Research 工作，主要内容为改良 semi-supervised learning 以及 deep learning 的演算法及效能
