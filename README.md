@@ -12,7 +12,8 @@
 follwing the book 《Python: Advanced Guide to Artificial Intelligence》to learn AI hands on
 
   
-  ![](https://www.pyimagesearch.com/wp-content/uploads/2018/01/keras_api_header.png)
+![](https://www.pyimagesearch.com/wp-content/uploads/2018/01/keras_api_header.png)
+
 架构：[Keras](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)+[Redis](https://redis.io/topics/introduction)（内存数据结构存储）+[Flask](https://palletsprojects.com/p/flask/)（Python的微型Web框架）
 
   
