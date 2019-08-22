@@ -18,7 +18,7 @@ follwing the book 《Python: Advanced Guide to Artificial Intelligence》to lear
 
   
   
-推荐关注领域： || 
+推荐关注领域： | | 
 ----|----|----
 ①|华校专，曾任阿里巴巴资深算法工程师、智易科技首席算法研究员，现任腾讯高级研究员，《Python 大战机器学习》的作者 |http://www.huaxiaozhuan.com/  
 ②|李沐，亚马逊MXNet 娇子（GLUON）团队，师从上海交通大学吕宝粮老师，博⼠毕业后加⼊亚⻢逊云计算部⻔|
@@ -27,7 +27,7 @@ follwing the book 《Python: Advanced Guide to Artificial Intelligence》to lear
 ⑤|Google AI出版中心， https://ai.google/research/pubs/|
 |
               
-参考书籍： || 
+参考书籍： | | 
 ----|----|----
 ①|《神经网络与深度学习》  邱锡鹏  复旦大学 |xpqiu@fudan.edu.cn
 ②|Encyclopedia of Social Network Analysis and Mining-Springer New York (2018)|
