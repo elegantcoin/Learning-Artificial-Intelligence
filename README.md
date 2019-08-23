@@ -16,7 +16,9 @@ follwing the book 《Python: Advanced Guide to Artificial Intelligence》to lear
 
 架构：[Keras](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)+[Redis](https://redis.io/topics/introduction)（内存数据结构存储）+[Flask](https://palletsprojects.com/p/flask/)（Python的微型Web框架）
 
+![](http://dlib.net/ml_guide.svg)
   
+
 序号| 推荐关注领域 | 链接
 ------|------|------
 ①|华校专，曾任阿里巴巴资深算法工程师、智易科技首席算法研究员，现任腾讯高级研究员，《Python 大战机器学习》的作者 |http://www.huaxiaozhuan.com/  
