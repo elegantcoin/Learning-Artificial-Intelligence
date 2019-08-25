@@ -18,7 +18,7 @@ follwing the book 《Python: Advanced Guide to Artificial Intelligence》to lear
 
 ![](http://dlib.net/ml_guide.svg)
   
-
+## :fire: 推荐关注领域
 序号| 推荐关注领域 | 链接
 ------|------|------
 ①|华校专，曾任阿里巴巴资深算法工程师、智易科技首席算法研究员，现任腾讯高级研究员，《Python 大战机器学习》的作者 |http://www.huaxiaozhuan.com/  
@@ -29,8 +29,8 @@ follwing the book 《Python: Advanced Guide to Artificial Intelligence》to lear
 ⑥|scikit learn官方手册 |https://scikit-learn.org/stable/user_guide.html
 ⑦|Eren Gölge博客 |http://www.erogol.com/machine-learning-pathway/
 
+## :fire: 参考书籍
 
-              
 序号| 参考书籍 | 链接
 ------|------|------
 ①|《神经网络与深度学习》  邱锡鹏  复旦大学 |xpqiu@fudan.edu.cn
