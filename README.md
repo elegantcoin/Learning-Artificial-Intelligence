@@ -27,6 +27,7 @@ follwing the book 《Python: Advanced Guide to Artificial Intelligence》to lear
 ④|李宏毅，国立台湾大学，Hung-yi Lee，语音处理和机器学习实验室 。 |http://speech.ee.ntu.edu.tw/~tlkagk/  http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html
 ⑤|Google AI出版中心 |https://ai.google/research/pubs/
 ⑥|scikit learn官方手册 |https://scikit-learn.org/stable/user_guide.html
+⑦|Eren Gölge博客 |http://www.erogol.com/machine-learning-pathway/
 
 
               
