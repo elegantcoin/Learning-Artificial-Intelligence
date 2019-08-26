@@ -25,9 +25,10 @@ follwing the book 《Python: Advanced Guide to Artificial Intelligence》to lear
 ②|李沐，亚马逊MXNet 娇子（GLUON）团队，师从上海交通大学吕宝粮老师，博⼠毕业后加⼊亚⻢逊云计算部⻔|
 ③|阮巨城，（Da-Cheng Juan）台湾国立清华大学计算机学士，卡内基梅隆大学博士，现于 Google Research 工作，主要内容为改良 semi-supervised learning 以及 deep learning 的演算法及效能|
 ④|李宏毅，国立台湾大学，Hung-yi Lee，语音处理和机器学习实验室 。 |http://speech.ee.ntu.edu.tw/~tlkagk/  http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html
-⑤|Google AI出版中心 |https://ai.google/research/pubs/
-⑥|scikit learn官方手册 |https://scikit-learn.org/stable/user_guide.html
-⑦|Eren Gölge博客 |http://www.erogol.com/machine-learning-pathway/
+⑤|Google AI 出版中心 |https://ai.google/research/pubs/
+⑥|scikit learn 官方手册 |https://scikit-learn.org/stable/user_guide.html
+⑦|Eren Gölge 博客 |http://www.erogol.com/machine-learning-pathway/
+⑧|TDS Team 博客 |https://towardsdatascience.com/data-science/home
 
 ## :fire: 参考书籍
 
