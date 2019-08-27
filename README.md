@@ -1,4 +1,4 @@
-# learning-Artificial-Intelligence
+# Learning-Artificial-Intelligence
 <p align="center">
     <a href="https://github.com/elegantcoin/learning-Artificial-Intelligence"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.7-FF1493.svg"></a>
