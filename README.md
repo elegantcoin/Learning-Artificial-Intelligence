@@ -29,6 +29,7 @@ follwing the book 《Python: Advanced Guide to Artificial Intelligence》to lear
 ⑥|scikit learn 官方手册 |https://scikit-learn.org/stable/user_guide.html
 ⑦|Eren Gölge 博客 |http://www.erogol.com/machine-learning-pathway/
 ⑧|TDS Team 博客 |https://towardsdatascience.com/data-science/home
+⑨|Jason Brownlee博客|https://machinelearningmastery.com/blog/
 
 ## :fire: 参考书籍
 
