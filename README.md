@@ -30,6 +30,7 @@ follwing the book 《Python: Advanced Guide to Artificial Intelligence》to lear
 ⑦|Eren Gölge 博客 |http://www.erogol.com/machine-learning-pathway/
 ⑧|TDS Team 博客 |https://towardsdatascience.com/data-science/home
 ⑨|Jason Brownlee博客|https://machinelearningmastery.com/blog/
+⑩|Model Zoo深度学习模型|https://modelzoo.co/
 
 ## :fire: 参考书籍
 
