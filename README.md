@@ -32,6 +32,7 @@ follwing the book 《Python: Advanced Guide to Artificial Intelligence》to lear
 ⑨|Jason Brownlee博客|https://machinelearningmastery.com/blog/
 ⑩|Model Zoo深度学习模型|https://modelzoo.co/
 ⑾|Andrew Ng 《ML Yearning》手稿|https://xiaqunfeng.gitbooks.io/machine-learning-yearning/content/
+⑿|Machine Learning plus @selva86|https://www.machinelearningplus.com/
 
 ## :fire: 参考书籍
 
