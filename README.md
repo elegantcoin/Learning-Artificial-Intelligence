@@ -31,8 +31,9 @@ follwing the book 《Python: Advanced Guide to Artificial Intelligence》to lear
 ⑧|TDS Team 博客 |https://towardsdatascience.com/data-science/home
 ⑨|Jason Brownlee博客|https://machinelearningmastery.com/blog/
 ⑩|Model Zoo深度学习模型|https://modelzoo.co/
-⑾|Andrew Ng 《ML Yearning》手稿|https://xiaqunfeng.gitbooks.io/machine-learning-yearning/content/
-⑿|Machine Learning plus @selva86|https://www.machinelearningplus.com/
+11|Andrew Ng 《ML Yearning》手稿|https://xiaqunfeng.gitbooks.io/machine-learning-yearning/content/
+12|Machine Learning plus @selva86|https://www.machinelearningplus.com/
+13|Jay Alammar (可视化介绍) |https://jalammar.github.io/
 
 ## :fire: 参考书籍
 
@@ -48,7 +49,7 @@ follwing the book 《Python: Advanced Guide to Artificial Intelligence》to lear
 ⑧|通过实例深入学习 Deep Learning By Example  （Ahmed Menshawy 2018 Packt Publishing）|
 ⑨|算法手册、Linux、Python|https://goalkicker.com/AlgorithmsBook/
 ⑩|Practical Python and OpenCV |https://www.pyimagesearch.com/practical-python-opencv
-⑾|……|
-⑿|……|
-⒀|……|
-⒁|……|
+11|……|
+12|……|
+13|……|
+14|……|
