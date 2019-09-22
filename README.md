@@ -36,7 +36,7 @@ follwing the book 《Python: Advanced Guide to Artificial Intelligence》to lear
 13|Jay Alammar (可视化介绍) |https://jalammar.github.io/
 
 ## :fire: 参考书籍（[点击查看图片详情](https://github.com/elegantcoin/Learning-Artificial-Intelligence/blob/master/books/0README.md)）
-
+![](https://github.com/elegantcoin/Learning-Artificial-Intelligence/blob/master/books/screenshot_01.png)
 序号| 参考书籍 | 链接
 ------|------|------
 ①|《神经网络与深度学习》  邱锡鹏  复旦大学 |xpqiu@fudan.edu.cn|
