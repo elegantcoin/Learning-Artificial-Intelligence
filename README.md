@@ -35,7 +35,7 @@ follwing the book 《Python: Advanced Guide to Artificial Intelligence》to lear
 12|Machine Learning plus @selva86|https://www.machinelearningplus.com/
 13|Jay Alammar (可视化介绍) |https://jalammar.github.io/
 
-## :fire: 参考书籍
+## :fire: 参考书籍（[点击查看图片详情](https://github.com/elegantcoin/Learning-Artificial-Intelligence/blob/master/books/0README.md)）
 
 序号| 参考书籍 | 链接
 ------|------|------
