@@ -34,6 +34,7 @@ follwing the book 《Python: Advanced Guide to Artificial Intelligence》to lear
 11|Andrew Ng 《ML Yearning》手稿|https://xiaqunfeng.gitbooks.io/machine-learning-yearning/content/
 12|Machine Learning plus @selva86|https://www.machinelearningplus.com/
 13|Jay Alammar (可视化介绍) |https://jalammar.github.io/
+14|加州大学伯克利分校《动手学深度学习》|http://zh.d2l.ai/  [github](https://github.com/d2l-ai/d2l-zh)
 
 ## :fire: 参考书籍（[点击查看图片详情](https://github.com/elegantcoin/Learning-Artificial-Intelligence/blob/master/books/0README.md)）
 ![](https://github.com/elegantcoin/Learning-Artificial-Intelligence/blob/master/books/screenshot_01.png)
